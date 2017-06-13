@@ -6,6 +6,5 @@ see the aws_p2
 
 # colne the 
 
-
-git clone https://github.com/xiaokeshen/Faster-RCNN_TF.git
+git clone --recursive https://github.com/smallcorgi/Faster-RCNN_TF.git
 
